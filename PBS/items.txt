@@ -3450,13 +3450,13 @@ Flags = Fling_30
 Description = A candy that is packed with energy. It raises the level of a single Pokémon by one.
 #-------------------------------
 [MASTERBALL]
-Name = Master Ball
-NamePlural = Master Balls
+Name = Mɑster Bɑll
+NamePlural = Mɑster Bɑlls
 Pocket = 3
 Price = 0
 BattleUse = OnFoe
 Flags = PokeBall
-Description = The best Ball with the ultimate level of performance. It will catch any wild Pokémon without fail.
+Description = The best Bɑll with the ultimate level of performance. It will cɑtch any wild Pokémon without fɑil.
 #-------------------------------
 [MASTERBALL1]
 Name = Master Ball
