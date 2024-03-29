@@ -3458,6 +3458,16 @@ BattleUse = OnFoe
 Flags = PokeBall
 Description = The best Ball with the ultimate level of performance. It will catch any wild Pokémon without fail.
 #-------------------------------
+[MASTERBALL1]
+Name = Master Ball
+NamePlural = Master Balls
+Pocket = 3
+Price = 0
+BattleUse = OnFoe
+FieldUse = OnPokemon
+Flags = PokeBall
+Description = The best Ball with the ultimate level of performance. It will catch any wild Pokémon without fail.
+#-------------------------------
 [ULTRABALL]
 Name = Ultra Ball
 NamePlural = Ultra Balls
