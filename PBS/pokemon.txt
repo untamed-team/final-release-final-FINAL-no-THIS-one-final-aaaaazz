@@ -28,7 +28,7 @@
 #Evolutions = IVYSAUR,Level,16
 #-------------------------------
 [MOLLUCOTTA]
-Name = Mollucotta
+Name = Molarcobble
 Types = GRASS
 BaseStats = 55,40,70,35,55,55
 GenderRatio = FemaleOneEighth
@@ -50,12 +50,12 @@ Color = Yellow
 Shape = HeadBase
 Habitat = Grassland
 Category = Planter
-Pokedex = Evidence shows Mollucotta has existed on Earth for millennia, but scientists are unsure on its lineage. To protect themselves, they seek shelter in pottery.
+Pokedex = Evidence shows Molarcobble has existed on Earth for millennia, but scientists are unsure on its lineage. Yoo Earth is canon.
 Generation = 9
 Evolutions = EXPURSUM,Level,16
 #-------------------------------
 [EXPURSUM]
-Name = Expursum
+Name = Eggspurthumb
 Types = GRASS
 BaseStats = 80,50,90,45,75,70
 GenderRatio = FemaleOneEighth
@@ -76,12 +76,12 @@ Color = Green
 Shape = Multiped
 Habitat = Grassland
 Category = Ranger
-Pokedex = Expursum's repurposed pottery armor gives them the confidence to take on stronger foes. They seem to enjoy protecting and helping other Pokémon.
+Pokedex = Eggspurthumb's repurposed pottery armor gives them the confidence to strike an pose. They seem to enjoy posing and whatnot.
 Generation = 9
 Evolutions = GASTRONAUT,Level,36
 #-------------------------------
 [GASTRONAUT]
-Name = Gastronaut
+Name = Gasbrofart
 Types = GRASS,GROUND
 BaseStats = 100,65,130,50,105,85
 GenderRatio = FemaleOneEighth
@@ -102,11 +102,11 @@ Color = Green
 Shape = Multiped
 Habitat = Grassland
 Category = Neoranger
-Pokedex = Gastronaut is capable of launching energy-charged globs of slime from their modified arm cannon at high velocity. The slime is acidic and can even melt steel.
+Pokedex = Gasbrofart is capable of launching energy-charged globs of slime from their modified GUN at high velocity. The slime is acidic and can even melt steel.
 Generation = 9
 #-------------------------------
 [QUETZALIL]
-Name = Quetzalil
+Name = Pretzlil
 Types = FIRE
 BaseStats = 40,60,45,55,60,50
 GenderRatio = FemaleOneEighth
@@ -128,12 +128,12 @@ Color = Red
 Shape = Serpentine
 Habitat = Rare
 Category = Feather Snake
-Pokedex = After years of high praise and attention, Quetzalil see themselves as gods. Their entitled attitude towards their trainers make them hard to train.
+Pokedex = After years of high praise and attention, Pretzlil see themselves as Pretzels. It means they are very dumb and might chew on themselfves.
 Generation = 9
 Evolutions = QUEXCELL,Level,16
 #-------------------------------
 [QUEXCELL]
-Name = Quexcell
+Name = Pretzell
 Types = FIRE
 BaseStats = 60,70,50,90,85,55
 GenderRatio = FemaleOneEighth
@@ -154,7 +154,7 @@ Color = Red
 Shape = Serpentine
 Habitat = Rare
 Category = Feather Snake
-Pokedex = Quexcell know that they are not as powerful as they think they are. They will still throw themselves into battle and expect an opponent's restraint.
+Pokedex = Pretzell know that they are not as smart as they think they are. They will still throw themselves headfirst into rocks tho.
 Generation = 9
 Evolutions = QUETZILLIAN,Level,36
 #-------------------------------
@@ -180,11 +180,11 @@ Color = Red
 Shape = Winged
 Habitat = Rare
 Category = Fire Dance
-Pokedex = In battle, Quetzillian moves as if it is dancing, swaying gracefully until it attacks and launching flaming feathers that devastate the battlefield.
+Pokedex = In battle, Quetzillian moves as if it is tumbling around, it sways gracefully... Just joking, its not graceful at all.
 Generation = 9
 #-------------------------------
 [PORSITE]
-Name = Porsite
+Name = Pursetight
 Types = WATER
 BaseStats = 60,50,40,55,50,55
 GenderRatio = FemaleOneEighth
@@ -206,12 +206,12 @@ Color = White
 Shape = Finned
 Habitat = WatersEdge
 Category = Sonar
-Pokedex = Porsite's high intelligence makes it easy for young trainers to raise. They have been known to communicate telepathically through the bubbles they produce.
+Pokedex = Pursetight can not breath under wateh, so it screams for you to save it.
 Generation = 9
 Evolutions = CETTOEKKO,Level,16
 #-------------------------------
 [CETTOEKKO]
-Name = Cettoekko
+Name = Debtcollecto
 Types = WATER,PSYCHIC
 BaseStats = 70,70,55,75,70,70
 GenderRatio = FemaleOneEighth
@@ -232,12 +232,12 @@ Color = Black
 Shape = Finned
 Habitat = WatersEdge
 Category = Sonar
-Pokedex = Much like a human teenager, Cettoekko tends to throw tantrums, lashing out using their sharp teeth and ignoring their trainer using the bubbles on their head.
+Pokedex = Much like a human teenager, Debtcollecto tends to throw tantrums, lashing out usi- Wait is this thing still alive?
 Generation = 9
 Evolutions = BATHYGIGAS,Level,36
 #-------------------------------
 [BATHYGIGAS]
-Name = Bathygigas
+Name = Bathwater
 Types = WATER,PSYCHIC
 BaseStats = 155,85,70,35,85,105
 GenderRatio = FemaleOneEighth
@@ -258,11 +258,11 @@ Color = Black
 Shape = Finned
 Habitat = WatersEdge
 Category = Benthic
-Pokedex = Bathygigas are extremely friendly and love to socialize with humans and Pokémon. They use telepathic songs that can travel any distance.
+Pokedex = Oh no it turned into Bathwater. 
 Generation = 9
 #-------------------------------
 [PACUNA]
-Name = Pacuna
+Name = Smolrat
 Types = NORMAL
 BaseStats = 30,35,35,60,35,55
 GenderRatio = Female50Percent
@@ -284,12 +284,12 @@ Color = Gray
 Shape = BipedalTail
 Habitat = Grassland
 Category = Nibbling
-Pokedex = Pacuna have an insatiable appetite that causes the decimation of farmland. Their reflective fur is capable of blinding predators for a short period of time.
+Pokedex = Smolrat have an insatiable appetite, and if you think "It's so smol tho? it could not hurt a thing". You would be wrong, it has already taken my wife and will go after yours too.
 Generation = 9
 Evolutions = LAGUNA,Level,20
 #-------------------------------
 [LAGUNA]
-Name = Laguna
+Name = OwO
 Types = NORMAL,FAIRY
 BaseStats = 50,55,60,80,65,110
 GenderRatio = Female50Percent
@@ -310,11 +310,11 @@ Color = Gray
 Shape = BipedalTail
 Habitat = Grassland
 Category = Hare
-Pokedex = Legend tells that the moon got its crescent shape when a Laguna jumped high enough to take a bite out of it.
+Pokedex = Legend tells that the OwO will one day destroy the moon.
 Generation = 9
 #-------------------------------
 [WRENNER]
-Name = Wrenner
+Name = Wran
 Types = NORMAL,FLYING
 BaseStats = 30,45,30,90,30,35
 GenderRatio = Female50Percent
@@ -336,12 +336,12 @@ Color = Yellow
 Shape = Winged
 Habitat = RoughTerrain
 Category = Swift Chick
-Pokedex = From the moment they hatch, the first thing a Wrenner does is run. While they're poor flyers, they can glide short distances after jumping great heights.
+Pokedex = From the moment they hatch, the first thing a Wrenner does is run. Or atleast that would be a thing if I did not take it legs.
 Generation = 9
 Evolutions = AVEOR,Level,16
 #-------------------------------
 [AVEOR]
-Name = Aveor
+Name = Armeor
 Types = ELECTRIC,FLYING
 BaseStats = 45,65,40,110,60,45
 GenderRatio = Female50Percent
@@ -362,12 +362,12 @@ Color = Yellow
 Shape = Winged
 Habitat = RoughTerrain
 Category = Star Runner
-Pokedex = The friction against Aveor's feathers as it runs upwards of 50mph generates electricity, causing sparks to fly behind it. It's dubbed "The Comet of the Sands".
+Pokedex = It has just started to learn to walk again, causing massive joy to all around. It's dubbed "The happy comet".
 Generation = 9
 Evolutions = ROADRAPTOR,Level,36
 #-------------------------------
 [ROADRAPTOR]
-Name = Roadraptor
+Name = Brawnraptor
 Types = ELECTRIC,FLYING
 BaseStats = 70,94,52,133,72,69
 GenderRatio = Female50Percent
@@ -388,11 +388,11 @@ Color = Yellow
 Shape = Winged
 Habitat = RoughTerrain
 Category = Shooting Star
-Pokedex = Roadraptor's method of hunting involves a deadly skydive onto prey, leaving behind a trail of yellow light that's reminiscent of a comet.
+Pokedex = Finally mastered the art of ARMS! Also: Brawnraptor's method of hunting involves a deadly fist of doom, leaving behind a trail of yellow light that's reminiscent of a comet.
 Generation = 9
 #-------------------------------
 [MINIMELO]
-Name = Minimelo
+Name = Goodmelon
 Types = BUG
 BaseStats = 40,30,40,25,30,35
 GenderRatio = Female25Percent
@@ -414,12 +414,12 @@ Color = Brown
 Shape = HeadBase
 Habitat = Grassland
 Category = Sugar Ant
-Pokedex = Minimelo is capable of storing large amounts of nectar in a specialized organ in its abdomen. While it can't consume the nectar, it can be used against attackers.
+Pokedex = Goodmelon is capable of storing large amounts of nectar in a specialized organ in its abdomen. While it can't consume the nectar, I can.
 Generation = 9
 Evolutions = CHICATTA,Level,10
 #-------------------------------
 [CHICATTA]
-Name = Chicatta
+Name = Chiccicci
 Types = BUG
 BaseStats = 45,85,45,65,35,45
 GenderRatio = Female25Percent
@@ -440,12 +440,12 @@ Color = Blue
 Shape = Insectoid
 Habitat = Grassland
 Category = Cutter Ant
-Pokedex = Chicatta's strong mandibles can cut through thick leaves with relative ease. The leaves they harvest are used to feed other members of their colony.
+Pokedex = The leaves they harvest are maybe alive, the face moves and blinks. This is not scienfitically proven.
 Generation = 9
 Evolutions = NOCTAVISPA,Level30HasTypeMove,DARK
 #-------------------------------
 [NOCTAVISPA]
-Name = Noctavispa
+Name = Darthstinger
 Types = BUG,DARK
 BaseStats = 65,110,69,97,89,65
 GenderRatio = Female25Percent
@@ -466,11 +466,11 @@ Color = Blue
 Shape = MultiWinged
 Habitat = Grassland
 Category = Hawk Wasp
-Pokedex = Acting as the leaders of the colony, Noctavispa support their nests by bringing in live prey. The colony survives through a cycle involving all members.
+Pokedex = He he, Darth Stinger... Get the reference? :P
 Generation = 9
 #-------------------------------
 [FLABEBE]
-Name = Flabébé
+Name = Flabebbe
 Types = FAIRY
 BaseStats = 44,38,39,42,61,79
 GenderRatio = AlwaysFemale
@@ -491,13 +491,13 @@ Weight = 0.1
 Color = White
 Shape = HeadArms
 Category = Single Bloom
-Pokedex = Mazah shop owners leave berries outside their store, in the hopes that a Flabébé comes by to help their outdoor flowers bloom.
+Pokedex = Mazah shop owners leave berries outside their store, in the hopes that the flower gives up on eating the Flabebbe. Never works :(.
 FormName = Red Flower
 Generation = 6
 Evolutions = FLOETTE,Level,19
 #-------------------------------
 [FLOETTE]
-Name = Floette
+Name = Digestte
 Types = FAIRY
 BaseStats = 54,45,47,52,75,98
 GenderRatio = AlwaysFemale
@@ -517,13 +517,13 @@ Weight = 0.9
 Color = White
 Shape = HeadArms
 Category = Single Bloom
-Pokedex = Floette is popular among Mazah school girls. They are often seen tending after the flowers in young girls' hair.
+Pokedex = Digestte is often mistaken for a normal flower until the stomach squirm around. People fear them for their cruelty.
 FormName = Red Flower
 Generation = 6
 Evolutions = FLORGES,Item,SHINYSTONE
 #-------------------------------
 [FLORGES]
-Name = Florges
+Name = Flonges
 Types = FAIRY
 BaseStats = 78,65,68,75,112,154
 GenderRatio = AlwaysFemale
@@ -543,12 +543,12 @@ Weight = 10.0
 Color = White
 Shape = HeadArms
 Category = Garden
-Pokedex = Often known as the "Lady of Flowers," Florges are powerful and benevolent leaders of colonies of Floette who will go on to be Florges themselves one day.
+Pokedex = Often known as the "Couldent come up with anything funi, come back later", Flonges are powerful and filled with revenge on all flowers.
 FormName = Red Flower
 Generation = 6
 #-------------------------------
 [LEDYBA]
-Name = Ledyba
+Name = Ladybro
 Types = BUG,FLYING
 BaseStats = 40,40,30,55,20,80
 GenderRatio = Female50Percent
@@ -575,7 +575,7 @@ Generation = 2
 Evolutions = LEDIAN,Level,23
 #-------------------------------
 [LEDIAN]
-Name = Ledian
+Name = Lebuffo
 Types = BUG,FIGHTING
 BaseStats = 55,80,50,85,45,100
 GenderRatio = Female50Percent
@@ -600,7 +600,7 @@ Pokedex = Ledian can attack extremely swiftly with its powerful fists. Some Ledi
 Generation = 2
 #-------------------------------
 [SUNKERN]
-Name = Sunkern
+Name = Kernel
 Types = GRASS
 BaseStats = 30,30,30,30,30,30
 GenderRatio = Female50Percent
@@ -627,7 +627,7 @@ Generation = 2
 Evolutions = SUNFLORA,Item,SUNSTONE
 #-------------------------------
 [SUNFLORA]
-Name = Sunflora
+Name = Munchies
 Types = GRASS,FIRE
 BaseStats = 75,55,55,55,125,85
 GenderRatio = Female50Percent
@@ -652,7 +652,7 @@ Pokedex = Imagery across the region suggests that Sunflora may have originated i
 Generation = 2
 #-------------------------------
 [TECHUPPI]
-Name = Techuppi
+Name = Techugjug
 Types = DARK
 BaseStats = 45,60,45,35,40,45
 GenderRatio = Female50Percent
@@ -679,7 +679,7 @@ Generation = 9
 Evolutions = LUPACABRA,Level,26
 #-------------------------------
 [LUPACABRA]
-Name = Lupacabra
+Name = Lupabro
 Types = DARK
 BaseStats = 80,105,95,55,85,70
 GenderRatio = Female50Percent
@@ -704,7 +704,7 @@ Pokedex = Due to terrible rumors, Lupacabra has earned an unjustified reputation
 Generation = 9
 #-------------------------------
 [ZOLUPINE]
-Name = Zolupine
+Name = Zombieline
 Types = DARK,WATER
 BaseStats = 60,85,60,95,105,105
 GenderRatio = Female50Percent
@@ -729,7 +729,7 @@ Pokedex = Zolupine makes it home in underwater caves and tunnels that run beneat
 Generation = 9
 #-------------------------------
 [BUDEW]
-Name = Budew
+Name = Buttdu
 Types = GRASS,POISON
 BaseStats = 40,30,35,55,50,70
 GenderRatio = Female50Percent
@@ -757,7 +757,7 @@ Evolutions = M_ROSELIA,HappinessNight,
 Incense = ROSEINCENSE
 #-------------------------------
 [M_ROSELIA]
-Name = Roselia
+Name = Roastedlia
 Types = GRASS,GHOST
 BaseStats = 50,45,50,70,80,105
 GenderRatio = Female50Percent
@@ -784,7 +784,7 @@ Generation = 9
 Evolutions = M_ROSERADE,Item,MOONSTONE
 #-------------------------------
 [M_ROSERADE]
-Name = Roserade
+Name = Roadrage
 Types = GRASS,GHOST
 BaseStats = 70,50,70,90,105,135
 GenderRatio = Female50Percent
@@ -809,7 +809,7 @@ Pokedex = Roserade in the Mazah region have a special connection with the afterl
 Generation = 9
 #-------------------------------
 [EKANS]
-Name = Ekans
+Name = Snake
 Types = POISON
 BaseStats = 35,60,44,55,40,54
 GenderRatio = Female50Percent
@@ -836,7 +836,7 @@ Generation = 1
 Evolutions = ARBOK,Level,22
 #-------------------------------
 [ARBOK]
-Name = Arbok
+Name = Kobra
 Types = POISON,DARK
 BaseStats = 75,95,69,80,66,84
 GenderRatio = Female50Percent
@@ -861,7 +861,7 @@ Pokedex = Mazah parents will use scary stories of Arboks to dissuade children fr
 Generation = 1
 #-------------------------------
 [HOOTHOOT]
-Name = Hoothoot
+Name = TiikTook
 Types = NORMAL,FLYING
 BaseStats = 60,30,30,50,36,56
 GenderRatio = Female50Percent
@@ -888,7 +888,7 @@ Generation = 2
 Evolutions = NOCTOWL,Level,25
 #-------------------------------
 [NOCTOWL]
-Name = Noctowl
+Name = Watowl
 Types = NORMAL,FLYING
 BaseStats = 110,50,70,70,86,96
 GenderRatio = Female50Percent
@@ -913,7 +913,7 @@ Pokedex = Thanks to limited psychic abilities, Noctowl can fly without making an
 Generation = 2
 #-------------------------------
 [CAFECARACHA]
-Name = Cafécaracha
+Name = Cuppajoe
 Types = BUG,ELECTRIC
 BaseStats = 50,40,60,75,40,40
 GenderRatio = Female50Percent
@@ -939,7 +939,7 @@ Generation = 9
 Evolutions = FLITJITTER,Level,21
 #-------------------------------
 [FLITJITTER]
-Name = Flitjitter
+Name = Flappujinno
 Types = BUG,ELECTRIC
 BaseStats = 62,65,65,130,88,65
 GenderRatio = Female50Percent
@@ -963,7 +963,7 @@ Pokedex = Flitjitter zips back and forth relentlessly. Their excess energy is re
 Generation = 9
 #-------------------------------
 [LOTAD]
-Name = Lotad
+Name = Plotadapus
 Types = WATER,GRASS
 BaseStats = 40,30,30,30,40,50
 GenderRatio = Female50Percent
@@ -991,7 +991,7 @@ WildItemUncommon = MENTALHERB
 Evolutions = LOMBRE,Level,14
 #-------------------------------
 [LOMBRE]
-Name = Lombre
+Name = Plombrepus
 Types = WATER,GRASS
 BaseStats = 60,50,50,50,60,70
 GenderRatio = Female50Percent
@@ -1018,7 +1018,7 @@ WildItemUncommon = MENTALHERB
 Evolutions = LUDICOLO,Item,WATERSTONE
 #-------------------------------
 [LUDICOLO]
-Name = Ludicolo
+Name = Pludipolo
 Types = WATER,GRASS
 BaseStats = 80,70,70,70,90,100
 GenderRatio = Female50Percent
@@ -1044,7 +1044,7 @@ Generation = 3
 WildItemUncommon = MENTALHERB
 #-------------------------------
 [DEWPIDER]
-Name = Dewpider
+Name = Duhspooder
 Types = WATER,BUG
 BaseStats = 38,40,52,27,40,72
 GenderRatio = Female50Percent
@@ -1071,7 +1071,7 @@ WildItemUncommon = MYSTICWATER
 Evolutions = ARAQUANID,Level,22
 #-------------------------------
 [ARAQUANID]
-Name = Araquanid
+Name = AraAra
 Types = WATER,BUG
 BaseStats = 68,70,92,42,50,132
 GenderRatio = Female50Percent
@@ -1152,7 +1152,7 @@ Pokedex = Mysteriously, it can foretell earthquakes. In the daytime, it sleeps i
 Generation = 3
 #-------------------------------
 [ZEAZAYA]
-Name = Zea-Zaya
+Name = Bea-Naya
 Types = GRASS
 BaseStats = 40,35,35,45,50,45
 GenderRatio = Female50Percent
@@ -1179,7 +1179,7 @@ Generation = 9
 Evolutions = ZHUSK,Level,17
 #-------------------------------
 [ZHUSK]
-Name = Zhusk
+Name = Busk
 Types = GRASS
 BaseStats = 65,55,60,50,70,60
 GenderRatio = Female50Percent
@@ -1205,7 +1205,7 @@ Generation = 9
 Evolutions = MAYZMEN,ItemLevel35,SUNSTONE,BLAZEA,ItemLevel35,FIRESTONE
 #-------------------------------
 [MAYZMEN]
-Name = Mayzmen
+Name = Beanmen
 Types = GRASS
 BaseStats = 100,90,80,55,95,80
 GenderRatio = Female50Percent
@@ -1255,7 +1255,7 @@ Pokedex = The multiple heads of Blazea are constantly disagreeing with one anoth
 Generation = 9
 #-------------------------------
 [PUMPKABOO]
-Name = Pumpkaboo
+Name = Plumpkaboo
 Types = GHOST,GRASS
 BaseStats = 44,44,70,56,66,55
 GenderRatio = Female50Percent
@@ -1282,7 +1282,7 @@ Generation = 6
 Evolutions = GOURGEIST,Trade,
 #-------------------------------
 [GOURGEIST]
-Name = Gourgeist
+Name = Gourgantic
 Types = GHOST,GRASS
 BaseStats = 55,58,122,99,85,75
 GenderRatio = Female50Percent
@@ -1307,7 +1307,7 @@ FormName = Small Size
 Generation = 6
 #-------------------------------
 [PURRLOIN]
-Name = Purrloin
+Name = Loins
 Types = DARK
 BaseStats = 41,50,37,66,50,37
 GenderRatio = Female50Percent
@@ -1333,7 +1333,7 @@ Generation = 5
 Evolutions = LIEPARD,Level,20
 #-------------------------------
 [LIEPARD]
-Name = Liepard
+Name = Lipardyo
 Types = DARK
 BaseStats = 64,88,50,106,88,50
 GenderRatio = Female50Percent
@@ -1535,7 +1535,7 @@ Pokedex = Normally dwelling in large bodies of water, Yoronaqua enjoy terrorizin
 Generation = 9
 #-------------------------------
 [DUSKULL]
-Name = Duskull
+Name = Duskspook
 Types = GHOST
 BaseStats = 20,40,90,25,30,90
 GenderRatio = Female50Percent
@@ -1563,7 +1563,7 @@ WildItemUncommon = SPELLTAG
 Evolutions = DUSCLOPS,Level,37
 #-------------------------------
 [DUSCLOPS]
-Name = Dusclops
+Name = Ghosty
 Types = GHOST
 BaseStats = 40,70,130,25,60,130
 GenderRatio = Female50Percent
@@ -1690,7 +1690,7 @@ Pokedex = Gothitelle are feared and respected for their ability to accurately ga
 Generation = 5
 #-------------------------------
 [VULPIX]
-Name = Vulpix
+Name = Firebuttix
 Types = FIRE
 BaseStats = 38,41,40,65,50,65
 GenderRatio = Female75Percent
@@ -1712,13 +1712,13 @@ Color = Brown
 Shape = Quadruped
 Habitat = Grassland
 Category = Fox
-Pokedex = In the arid climate of the Mazah region, people and Pokémon will avoid Vulpix's heat-radiating fur. Vulpix is more than content with being left alone.
+Pokedex = OH aARCEUS ITS ON FIRE OMG, PUT IT OUT
 Generation = 1
 WildItemUncommon = CHARCOAL
 Evolutions = NINETALES,Item,FIRESTONE
 #-------------------------------
 [NINETALES]
-Name = Ninetales
+Name = Fireteil
 Types = FIRE
 BaseStats = 73,76,75,100,81,100
 GenderRatio = Female75Percent
@@ -1739,12 +1739,12 @@ Color = Yellow
 Shape = Quadruped
 Habitat = Grassland
 Category = Fox
-Pokedex = Ninetales's tails flow brilliantly, as if they have a mind of their own. Ancient stories tell of a Ninetales bringing heat to a town stuck in an intense winter storm.
+Pokedex = ITS TOO LATE! ITS DOOMED TO ETERNAL PAIN. AAAAAA WHAT HAVE YOU DONE?!
 Generation = 1
 WildItemUncommon = CHARCOAL
 #-------------------------------
 [MURKROW]
-Name = Murkrow
+Name = Murkle
 Types = DARK,FLYING
 BaseStats = 60,85,42,91,85,42
 GenderRatio = Female50Percent
@@ -1766,12 +1766,12 @@ Color = Black
 Shape = Winged
 Habitat = Forest
 Category = Darkness
-Pokedex = Murkrow is a menace to various Mazian Pokémon. They will harass Zea-Zaya colonies and bully Cromen. They are hated with a passion.
+Pokedex =  It has sickness, cough cough. Gibe some berries to cheer it up :).
 Generation = 2
 Evolutions = HONCHKROW,Item,DUSKSTONE
 #-------------------------------
 [HONCHKROW]
-Name = Honchkrow
+Name = Hoonkhoo
 Types = DARK,FLYING
 BaseStats = 100,125,52,71,105,52
 GenderRatio = Female50Percent
@@ -1791,11 +1791,11 @@ Weight = 27.3
 Color = Black
 Shape = Winged
 Category = Big Boss
-Pokedex = Honchkrow and their Murkrow flocks compete with Noctavispa to try and control Minimelo colonies, their preferred prey.
+Pokedex = Winter holidays is early and it has replaced the other bird pokemon, dont remember the name of it.
 Generation = 4
 #-------------------------------
 [LITWICK]
-Name = Litwick
+Name = Litmus
 Types = GHOST,FIRE
 BaseStats = 50,30,55,20,65,55
 GenderRatio = Female50Percent
@@ -1821,7 +1821,7 @@ Generation = 5
 Evolutions = LAMPENT,Level,41
 #-------------------------------
 [LAMPENT]
-Name = Lampent
+Name = Lapet
 Types = GHOST,FIRE
 BaseStats = 60,40,60,55,95,60
 GenderRatio = Female50Percent
@@ -1846,7 +1846,7 @@ Generation = 5
 Evolutions = CHANDELURE,Item,DUSKSTONE
 #-------------------------------
 [CHANDELURE]
-Name = Chandelure
+Name = Chandler
 Types = GHOST,FIRE
 BaseStats = 60,55,90,80,145,90
 GenderRatio = Female50Percent
