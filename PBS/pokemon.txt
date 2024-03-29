@@ -652,7 +652,7 @@ Pokedex = Imagery across the region suggests that Sunflora may have originated i
 Generation = 2
 #-------------------------------
 [TECHUPPI]
-Name = Techugjug
+Name = Terabies
 Types = DARK
 BaseStats = 45,60,45,35,40,45
 GenderRatio = Female50Percent
@@ -674,12 +674,12 @@ Color = Blue
 Shape = Quadruped
 Habitat = Urban
 Category = Small Dog
-Pokedex = For centuries, almost every family in the Mazah region has kept a Techuppi. Their tiny jaws are capable of clamping down with surprising strength.
+Pokedex = Old ladies love these adorable little scallywags, but most of us are aware that these embodiments of rage are a danger to society.
 Generation = 9
 Evolutions = LUPACABRA,Level,26
 #-------------------------------
 [LUPACABRA]
-Name = Lupabro
+Name = Lupacabman
 Types = DARK
 BaseStats = 80,105,95,55,85,70
 GenderRatio = Female50Percent
@@ -700,11 +700,11 @@ Color = Blue
 Shape = Bipedal
 Habitat = Urban
 Category = Mange Dog
-Pokedex = Due to terrible rumors, Lupacabra has earned an unjustified reputation as a dangerous monster. If trained properly, they're incredibly loyal to their trainer.
+Pokedex = This one goes out to the furry community. 
 Generation = 9
 #-------------------------------
 [ZOLUPINE]
-Name = Zombieline
+Name = Zoluman
 Types = DARK,WATER
 BaseStats = 60,85,60,95,105,105
 GenderRatio = Female50Percent
@@ -725,7 +725,7 @@ Color = Blue
 Shape = Quadruped
 Habitat = Cave
 Category = Aqua Dog
-Pokedex = Zolupine makes it home in underwater caves and tunnels that run beneath the surface of the jungle, making it one of the rarest Pokémon in the Mazah region.
+Pokedex = This one ALSO goes out to the furry community.
 Generation = 9
 #-------------------------------
 [BUDEW]
@@ -1407,7 +1407,7 @@ Pokedex = Excadrill are popular among laborers. Classical texts suggest that Exc
 Generation = 5
 #-------------------------------
 [PHANTUMP]
-Name = Phantump
+Name = Fanumtax
 Types = GHOST,GRASS
 BaseStats = 43,70,48,38,50,60
 GenderRatio = Female50Percent
@@ -1428,12 +1428,12 @@ Weight = 7.0
 Color = Brown
 Shape = HeadArms
 Category = Stump
-Pokedex = Phantump like to play pranks on young children in towns. If a Phantump has become friends with a child, it will try to lure them into the forest.
+Pokedex = The best snack is the souls of the innocent :3.
 Generation = 6
 Evolutions = TREVENANT,Trade,
 #-------------------------------
 [TREVENANT]
-Name = Trevenant
+Name = Trevenstick
 Types = GHOST,GRASS
 BaseStats = 85,120,82,56,65,82
 GenderRatio = Female50Percent
@@ -1453,7 +1453,7 @@ Weight = 71.0
 Color = Brown
 Shape = Multiped
 Category = Elder Tree
-Pokedex = Trevenant are considered guardians of the trees. They protect the graves of those who have lost their loved ones in their forests.
+Pokedex = The worst lorax rip off.
 Generation = 6
 #-------------------------------
 [LILORINA]
@@ -1535,7 +1535,7 @@ Pokedex = Normally dwelling in large bodies of water, Yoronaqua enjoy terrorizin
 Generation = 9
 #-------------------------------
 [DUSKULL]
-Name = Duskspook
+Name = Sugarskull
 Types = GHOST
 BaseStats = 20,40,90,25,30,90
 GenderRatio = Female50Percent
@@ -1557,13 +1557,13 @@ Color = Black
 Shape = HeadArms
 Habitat = Forest
 Category = Requiem
-Pokedex = Duskull often find it hard to scare Mazian children because of the sugar skull masks they wear for fun. The children usually manage to scare the Duskull instead.
+Pokedex = Everyone seems to love making these things...
 Generation = 3
 WildItemUncommon = SPELLTAG
 Evolutions = DUSCLOPS,Level,37
 #-------------------------------
 [DUSCLOPS]
-Name = Ghosty
+Name = Dustrocks
 Types = GHOST
 BaseStats = 40,70,130,25,60,130
 GenderRatio = Female50Percent
@@ -1584,13 +1584,13 @@ Color = Black
 Shape = Bipedal
 Habitat = Forest
 Category = Beckon
-Pokedex = The body of a Dusclops are thought to contain a void. No scientific tests or humans have survived experiment to find out.
+Pokedex = The body of a Dusclops are thought to contain a void. In reality, it just contains the souls of the mazah devs.
 Generation = 3
 WildItemUncommon = SPELLTAG
 Evolutions = DUSKNOIR,TradeItem,REAPERCLOTH
 #-------------------------------
 [DUSKNOIR]
-Name = Dusknoir
+Name = Dusk Cipher
 Types = GHOST
 BaseStats = 65,125,125,45,55,125
 GenderRatio = Female50Percent
@@ -1610,12 +1610,12 @@ Weight = 106.6
 Color = Black
 Shape = HeadArms
 Category = Gripper
-Pokedex = Due to Mazah's lack of superstitions surrounding death, Dusknoirs are welcomed in towns more-so than other regions. Dusknoirs apparently hate this.
+Pokedex = Remember: reality is an illusion. The universe is a hologram. Buy gold. Bye!
 Generation = 4
 WildItemUncommon = SPELLTAG
 #-------------------------------
 [GOTHITA]
-Name = Gothita
+Name = Gotithaaaa
 Types = PSYCHIC
 BaseStats = 45,30,50,45,55,65
 GenderRatio = Female75Percent
@@ -1636,12 +1636,12 @@ Weight = 5.8
 Color = Purple
 Shape = Bipedal
 Category = Fixation
-Pokedex = Gothita and its evolutions have inspired a subculture in the Mazah region. Close proximity to Gothita seems to amplify feelings of melancholy.
+Pokedex = For some reason close proximity to Gothita seems to amplify feelings of melancholy and self loathing. Just like mom <3.
 Generation = 5
 Evolutions = GOTHORITA,Level,32
 #-------------------------------
 [GOTHORITA]
-Name = Gothorita
+Name = Gothoritaaaaaaaa
 Types = PSYCHIC
 BaseStats = 60,45,70,55,75,85
 GenderRatio = Female75Percent
@@ -1661,12 +1661,12 @@ Weight = 18.0
 Color = Purple
 Shape = Bipedal
 Category = Manipulate
-Pokedex = Their power levels seem to have some connection to the position of stars. When they fall into position, Gothorita becomes much more powerful.
+Pokedex = Their power levels seem to have some connection to positions... When they fall into position, Gothorita becomes much more powerful.
 Generation = 5
 Evolutions = GOTHITELLE,Level,41
 #-------------------------------
 [GOTHITELLE]
-Name = Gothitelle
+Name = GOTHIHELL
 Types = PSYCHIC
 BaseStats = 70,55,95,65,95,110
 GenderRatio = Female75Percent
@@ -1686,7 +1686,7 @@ Weight = 44.0
 Color = Purple
 Shape = Bipedal
 Category = Astral Body
-Pokedex = Gothitelle are feared and respected for their ability to accurately gauge one's lifespan. They were treated like deities in the past.
+Pokedex = They are feared and respected for their ability to accurately destroy your bloodline.
 Generation = 5
 #-------------------------------
 [VULPIX]
