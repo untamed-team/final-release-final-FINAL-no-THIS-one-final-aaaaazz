@@ -1816,7 +1816,7 @@ Weight = 3.1
 Color = White
 Shape = HeadBase
 Category = Candle
-Pokedex = In return for being cared for by the locals, Litwick light up their house. It is not very nice.
+Pokedex = In return for being cared for by the locals, Litmus light up their house. It is not very nice.
 Generation = 5
 Evolutions = LAMPENT,Level,41
 #-------------------------------
