@@ -102,7 +102,7 @@ Color = Green
 Shape = Multiped
 Habitat = Grassland
 Category = Neoranger
-Pokedex = Gasbrofart is capable of launching energy-charged globs of slime from their modified GUN at high velocity. The slime is acidic and can even melt steel.
+Pokedex = Gasbrofart is capable of launching energy-charged globs of farts from their modified GUN at high velocity. The slime is acidic and can even melt steel.
 Generation = 9
 #-------------------------------
 [QUETZALIL]
@@ -159,7 +159,7 @@ Generation = 9
 Evolutions = QUETZILLIAN,Level,36
 #-------------------------------
 [QUETZILLIAN]
-Name = Quetzillian
+Name = Pretzilli
 Types = FIRE,DRAGON
 BaseStats = 90,95,60,100,125,65
 GenderRatio = FemaleOneEighth
@@ -232,7 +232,7 @@ Color = Black
 Shape = Finned
 Habitat = WatersEdge
 Category = Sonar
-Pokedex = Much like a human teenager, Debtcollecto tends to throw tantrums, lashing out usi- Wait is this thing still alive?
+Pokedex = Much like a human teenager, Debtcollecto tends to collect debt, lashing out agai- Wait is this thing still alive?
 Generation = 9
 Evolutions = BATHYGIGAS,Level,36
 #-------------------------------
@@ -491,7 +491,7 @@ Weight = 0.1
 Color = White
 Shape = HeadArms
 Category = Single Bloom
-Pokedex = Mazah shop owners leave berries outside their store, in the hopes that the flower gives up on eating the Flabebbe. Never works :(.
+Pokedex = Mazah shop owners leave berries outside their store, in the hopes that the flower gives up on eating the Flabebbe. It never works :(.
 FormName = Red Flower
 Generation = 6
 Evolutions = FLOETTE,Level,19
@@ -570,7 +570,7 @@ Color = Red
 Shape = Winged
 Habitat = Forest
 Category = Five Star
-Pokedex = Thousands of Ledyba migrate to Mazah during the winter for the warm weather. They have inspired many Mazian fashion trends.
+Pokedex = Thousands of Ladybro migrate to Mazah during the winter for the fashion. They may steal an hat or bow. 
 Generation = 2
 Evolutions = LEDIAN,Level,23
 #-------------------------------
@@ -596,7 +596,7 @@ Color = Red
 Shape = Winged
 Habitat = Forest
 Category = Five Star
-Pokedex = Ledian can attack extremely swiftly with its powerful fists. Some Ledian have been noted to imitate human boxers when fighting.
+Pokedex = Lebuffo can attack extremely swiftly with its powerful fists. Some Ledian have cool buff bows that has attack+ effect. Kidding, its just cute.
 Generation = 2
 #-------------------------------
 [SUNKERN]
@@ -622,7 +622,7 @@ Color = Yellow
 Shape = Head
 Habitat = Grassland
 Category = Seed
-Pokedex = When a Sunkern evolves it often leaves its seed shell behind. This makes for a tasty and popular snack among older Mazah residents.
+Pokedex = Mazah people eat it after frying them alive. Tasty.
 Generation = 2
 Evolutions = SUNFLORA,Item,SUNSTONE
 #-------------------------------
@@ -648,7 +648,7 @@ Color = Yellow
 Shape = Bipedal
 Habitat = Grassland
 Category = Sun
-Pokedex = Imagery across the region suggests that Sunflora may have originated in Mazah. Ancient Mazians used Sunflora’s petals as offerings to their deities.
+Pokedex = It looks unappetizing, but it makes for a great afternoon snack.
 Generation = 2
 #-------------------------------
 [TECHUPPI]
@@ -750,7 +750,7 @@ Weight = 1.2
 Color = Green
 Shape = Bipedal
 Category = Bud
-Pokedex = Budew helps pollinate flowers used to celebrate and mourn the dead. This tradition makes Budew popular in the Mazah Region.
+Pokedex = Buttdu dances with their butt. This dance makes Budew popular in the Mazah Region.
 Generation = 4
 WildItemUncommon = POISONBARB
 Evolutions = M_ROSELIA,HappinessNight,
@@ -779,7 +779,7 @@ Color = Black
 Shape = Bipedal
 Habitat = Urban
 Category = Thorn
-Pokedex = On certain nights in the Mazah region, Roselia gather en masse in graveyards. The flowers on the ends of their arms are said to possess supernatural properties.
+Pokedex = On certain nights in the Mazah region, Roastedlia light up the sky with their phones. 
 Generation = 9
 Evolutions = M_ROSERADE,Item,MOONSTONE
 #-------------------------------
@@ -805,7 +805,7 @@ Color = Green
 Shape = Bipedal
 Habitat = Urban
 Category = Bouquet
-Pokedex = Roserade in the Mazah region have a special connection with the afterlife that helps people communicate with loved ones who have passed on.
+Pokedex = WATCH OUT! ROADRAGE BLUKCHATTING AND DRIVING! Roadrage are a danger on the roads.
 Generation = 9
 #-------------------------------
 [EKANS]
@@ -831,7 +831,7 @@ Color = Purple
 Shape = Serpentine
 Habitat = Grassland
 Category = Snake
-Pokedex = When Ekans are close to evolution, they begin to shed their skin. Craftsman collect the beads on their tail and use them in jewelry.
+Pokedex = They are stuck in this pose and need to roll to move around.
 Generation = 1
 Evolutions = ARBOK,Level,22
 #-------------------------------
@@ -857,7 +857,7 @@ Color = Purple
 Shape = Serpentine
 Habitat = Grassland
 Category = Cobra
-Pokedex = Mazah parents will use scary stories of Arboks to dissuade children from wandering out into the tall grass.
+Pokedex = Also forever stuck in this pose, Kobra hop around on their tail end.
 Generation = 1
 #-------------------------------
 [HOOTHOOT]
@@ -883,7 +883,7 @@ Color = Brown
 Shape = Winged
 Habitat = Forest
 Category = Owl
-Pokedex = Hoothoot's hypnotic gaze is enough to knock out even the most energetic Pokémon. They are often used to help insomnia patients fall asleep peacefully.
+Pokedex = Look at the time, it is time for pokeman.
 Generation = 2
 Evolutions = NOCTOWL,Level,25
 #-------------------------------
@@ -909,7 +909,7 @@ Color = Brown
 Shape = Winged
 Habitat = Forest
 Category = Owl
-Pokedex = Thanks to limited psychic abilities, Noctowl can fly without making any noise. They use this ability to help them sneak up on prey.
+Pokedex = Wat time is it? Watowl helps Mazah people with time managment. 
 Generation = 2
 #-------------------------------
 [CAFECARACHA]
@@ -934,7 +934,7 @@ Weight = 2.9
 Color = Brown
 Shape = Head
 Category = Jumping Bean
-Pokedex = The shell that protects Cafécaracha is packed with caffeine. The resulting hyperactivity causes them to ricochet off surfaces like tiny bullets.
+Pokedex = Cuppajoe are packed with "caffeine", as a result, they keep stuttering meaningless sentances like: "Please end me" or "This world is a lie".
 Generation = 9
 Evolutions = FLITJITTER,Level,21
 #-------------------------------
@@ -959,7 +959,7 @@ Weight = 8.2
 Color = Brown
 Shape = Winged
 Category = Wired
-Pokedex = Flitjitter zips back and forth relentlessly. Their excess energy is released in bursts of electricity that provide a small dose of adrenaline.
+Pokedex = Drink it...See what happens to you :)
 Generation = 9
 #-------------------------------
 [LOTAD]
@@ -985,7 +985,7 @@ Color = Green
 Shape = Insectoid
 Habitat = WatersEdge
 Category = Water Weed
-Pokedex = These bizarre Pokémon sit around all day. Children like to use them as stepping stones.
+Pokedex = IS THAT PLOTADAPUS THE PLOTADAPUS?!
 Generation = 3
 WildItemUncommon = MENTALHERB
 Evolutions = LOMBRE,Level,14
@@ -1012,7 +1012,7 @@ Color = Green
 Shape = Bipedal
 Habitat = WatersEdge
 Category = Jolly
-Pokedex = These Pokémon have learned from humans, adopting some of their dress codes. Lombre's sometimes find work in fashion stores.
+Pokedex = They dancing, they chilling.
 Generation = 3
 WildItemUncommon = MENTALHERB
 Evolutions = LUDICOLO,Item,WATERSTONE
@@ -1039,7 +1039,7 @@ Color = Green
 Shape = Bipedal
 Habitat = WatersEdge
 Category = Carefree
-Pokedex = Ludicolo dance around bodies of water on certain days, seemingly at random. The dance resembles a joyful Mazian dance.
+Pokedex = Something scientific about Pludipolo? Well, Pludipolo are able to jump super high if that is a good enough fact. 
 Generation = 3
 WildItemUncommon = MENTALHERB
 #-------------------------------
@@ -1065,13 +1065,13 @@ Weight = 4.0
 Color = Green
 Shape = HeadLegs
 Category = Water Bubble
-Pokedex = The bubble around a Dewpider’s head is said to be of the utmost quality. One can follow a Dewpider to a drinkable source of water.
+Pokedex = Duhspooder have only once taken an breath, and it is right out of the egg before the water encapsulates them.
 Generation = 7
 WildItemUncommon = MYSTICWATER
 Evolutions = ARAQUANID,Level,22
 #-------------------------------
 [ARAQUANID]
-Name = AraAra
+Name = AranSpooder
 Types = WATER,BUG
 BaseStats = 68,70,92,42,50,132
 GenderRatio = Female50Percent
@@ -1091,12 +1091,12 @@ Weight = 82.0
 Color = Green
 Shape = Insectoid
 Category = Water Bubble
-Pokedex = Araquanid's bubble grows larger as it gets older as it needs more water to sustain its aging body. If an Araquanid gets old enough, its bubble can be used as a pool.
+Pokedex = If AranSpooder ever stops holding their breath, the water instanly consume them. 
 Generation = 7
 WildItemUncommon = MYSTICWATER
 #-------------------------------
 [BARBOACH]
-Name = Barboach
+Name = Barbera
 Types = WATER,GROUND
 BaseStats = 50,48,43,60,46,41
 GenderRatio = Female50Percent
@@ -1118,7 +1118,7 @@ Color = Gray
 Shape = Finned
 Habitat = WatersEdge
 Category = Whiskers
-Pokedex = Its body is covered with a slimy film. The film acts as a barrier to prevent germs in muddy water from entering the Barboach's body.
+Pokedex = Its body is covered with a slimy film. What kinda fact is that?
 Generation = 3
 WildItemCommon = HEARTSCALE
 WildItemUncommon = HEARTSCALE
@@ -1148,7 +1148,7 @@ Habitat = WatersEdge
 Category = Whiskers
 WildItemCommon = HEARTSCALE
 WildItemUncommon = HEARTSCALE
-Pokedex = Mysteriously, it can foretell earthquakes. In the daytime, it sleeps in mud at the bottom of a pond. When it awakens, it continually feeds throughout the night.
+Pokedex = The best boi, Whiscash. 
 Generation = 3
 #-------------------------------
 [ZEAZAYA]
@@ -1174,7 +1174,7 @@ Color = Green
 Shape = MultiBody
 Habitat = Grassland
 Category = Twin Kernel
-Pokedex = Ancient myth tells a story about how humanity was created by Zea-Zaya, garnering them a huge amount of respect in the Mazah Region.
+Pokedex = Beans.
 Generation = 9
 Evolutions = ZHUSK,Level,17
 #-------------------------------
@@ -1200,7 +1200,7 @@ Color = Green
 Shape = MultiBody
 Habitat = Grassland
 Category = Kernel Cluster
-Pokedex = When multiple Zea-Zaya band together to live in a colony, they create a Zhusk. In a pinch, they will launch members of the colony at foes as a form of attack.
+Pokedex = MORE beans.
 Generation = 9
 Evolutions = MAYZMEN,ItemLevel35,SUNSTONE,BLAZEA,ItemLevel35,FIRESTONE
 #-------------------------------
@@ -1226,7 +1226,7 @@ Color = Green
 Shape = MultiBody
 Habitat = Grassland
 Category = Kernel Colony
-Pokedex = Mayzmen are a massive colony of several individual Pokémon. While each mind is independent, they work together for everyday life and for battle.
+Pokedex = SO MANY BEANS!
 Generation = 9
 #-------------------------------
 [BLAZEA]
@@ -1251,7 +1251,7 @@ Color = Green
 Shape = MultiBody
 Habitat = Grassland
 Category = Burnt Kernel
-Pokedex = The multiple heads of Blazea are constantly disagreeing with one another, often bursting out into fiery arguments.
+Pokedex = Oh shi- THE BEANS!
 Generation = 9
 #-------------------------------
 [PUMPKABOO]
@@ -1276,7 +1276,7 @@ Weight = 3.5
 Color = Brown
 Shape = Head
 Category = Pumpkin
-Pokedex = To avoid detection, Pumpkaboo in the Mazah region usually disguise themselves as a normal pumpkin. If found, they use ghostly energies to flee.
+Pokedex = Aw it is an cutie owo. "Do not put that in".
 FormName = Small Size
 Generation = 6
 Evolutions = GOURGEIST,Trade,
@@ -1302,7 +1302,7 @@ Weight = 9.5
 Color = Brown
 Shape = HeadBase
 Category = Pumpkin
-Pokedex = Gourgeist can vary wildly in size based on a range of environmental factors. However, it is generally agreed that the bigger, the better.
+Pokedex = BIG and smol. They are all so cute. "I SAID, DO NOT PUT THAT IN"
 FormName = Small Size
 Generation = 6
 #-------------------------------
@@ -1328,7 +1328,7 @@ Weight = 10.1
 Color = Purple
 Shape = Quadruped
 Category = Devious
-Pokedex = In this region, Purrloin competes with Techuppi for most popular pet. However, both them and their evolved forms are also known to fight viciously in the wild.
+Pokedex = Their steps make the earth shake. 
 Generation = 5
 Evolutions = LIEPARD,Level,20
 #-------------------------------
@@ -1353,11 +1353,11 @@ Weight = 37.5
 Color = Purple
 Shape = Quadruped
 Category = Cruel
-Pokedex = It is hypothesized that Liepard and Persian share a common ancestor. They mostly avoid each other in the jungle home that they share.
+Pokedex = B).
 Generation = 5
 #-------------------------------
 [DRILBUR]
-Name = Drilbur
+Name = Driglett
 Types = GROUND
 BaseStats = 60,85,40,68,30,45
 GenderRatio = Female50Percent
@@ -1378,12 +1378,12 @@ Weight = 8.5
 Color = Gray
 Shape = BipedalTail
 Category = Mole
-Pokedex = Drilburs have a unique relationship with farmers observed in this region. Drilburs will happily dig furrows in gardens in exchange for berries.
+Pokedex = Driglett di, Driglett di~.
 Generation = 5
 Evolutions = EXCADRILL,Level,31
 #-------------------------------
 [EXCADRILL]
-Name = Excadrill
+Name = Excatrio
 Types = GROUND,STEEL
 BaseStats = 110,135,60,88,50,65
 GenderRatio = Female50Percent
@@ -1403,7 +1403,7 @@ Weight = 40.4
 Color = Gray
 Shape = Bipedal
 Category = Subterrene
-Pokedex = Excadrill are popular among laborers. Classical texts suggest that Excadrill was vital in constructing the ancient city that eventually became Mazah City.
+Pokedex = Trio trio trio~.
 Generation = 5
 #-------------------------------
 [PHANTUMP]
@@ -1457,7 +1457,7 @@ Pokedex = The worst lorax rip off.
 Generation = 6
 #-------------------------------
 [LILORINA]
-Name = Liloriña
+Name = Lilcry
 Types = GHOST,WATER
 BaseStats = 50,30,45,40,65,55
 GenderRatio = AlwaysFemale
@@ -1479,12 +1479,12 @@ Color = Purple
 Shape = HeadBase
 Habitat = WatersEdge
 Category = Weeping
-Pokedex = By nature, Liloriña are skittish, and are afraid of water and adult humans. They hover around small children apparently looking for someone to play with.
+Pokedex = Gibe them hug :,(
 Generation = 9
 Evolutions = YAQUENA,Level,39
 #-------------------------------
 [YAQUENA]
-Name = Yaquena
+Name = Yasqueen
 Types = GHOST,WATER
 BaseStats = 65,45,65,45,105,95
 GenderRatio = AlwaysFemale
@@ -1505,12 +1505,12 @@ Color = Purple
 Shape = HeadArms
 Habitat = WatersEdge
 Category = Weeping
-Pokedex = Children of the Mazah region love to play with Yaquena. In battle, they use their shrill voice, wailing at the top of their lungs, flooding the area with tears.
+Pokedex = YAAASSSSSS. Oh they are crying? well whatevs.
 Generation = 9
 Evolutions = YORONAQUA,Item,DUSKSTONE
 #-------------------------------
 [YORONAQUA]
-Name = Yoronaqua
+Name = Yoranbith
 Types = GHOST,WATER
 BaseStats = 85,55,80,55,135,110
 GenderRatio = AlwaysFemale
@@ -1531,7 +1531,7 @@ Color = Purple
 Shape = Bipedal
 Habitat = WatersEdge
 Category = Wailing
-Pokedex = Normally dwelling in large bodies of water, Yoronaqua enjoy terrorizing the young and innocent. At night, their eerie, woman-like wail can echo for miles.
+Pokedex = NO HUG! NO HUGS! RUN RUN RUN! IT IS CHASING ME! (this might be my last entry).
 Generation = 9
 #-------------------------------
 [DUSKULL]
@@ -1712,7 +1712,7 @@ Color = Brown
 Shape = Quadruped
 Habitat = Grassland
 Category = Fox
-Pokedex = OH aARCEUS ITS ON FIRE OMG, PUT IT OUT
+Pokedex = OH ARCEUS IT IS ON FIRE OMG, PUT IT OUT.
 Generation = 1
 WildItemUncommon = CHARCOAL
 Evolutions = NINETALES,Item,FIRESTONE
@@ -1739,7 +1739,7 @@ Color = Yellow
 Shape = Quadruped
 Habitat = Grassland
 Category = Fox
-Pokedex = ITS TOO LATE! ITS DOOMED TO ETERNAL PAIN. AAAAAA WHAT HAVE YOU DONE?!
+Pokedex = ITS TOO LATE! THEY ARE DOOMED TO ETERNAL PAIN. AAAAAA WHAT HAVE YOU DONE?!.
 Generation = 1
 WildItemUncommon = CHARCOAL
 #-------------------------------
@@ -1816,7 +1816,7 @@ Weight = 3.1
 Color = White
 Shape = HeadBase
 Category = Candle
-Pokedex = In return for being cared for by the locals, Litwick light up cemeteries to help guide the deceased to their living relatives.
+Pokedex = In return for being cared for by the locals, Litwick light up their house. It is not very nice.
 Generation = 5
 Evolutions = LAMPENT,Level,41
 #-------------------------------
@@ -1841,7 +1841,7 @@ Weight = 13.0
 Color = Black
 Shape = HeadArms
 Category = Lamp
-Pokedex = They disguise themselves as real lamps, but one can spot them by examining their "flame".
+Pokedex = They disguise themselves as real lamps, but one can spot them easily by just looking. Can not fool me.
 Generation = 5
 Evolutions = CHANDELURE,Item,DUSKSTONE
 #-------------------------------
@@ -1866,7 +1866,7 @@ Weight = 34.3
 Color = Black
 Shape = HeadArms
 Category = Luring
-Pokedex = Their flames are said to steal souls from humans. They inspired the chandelier and it was even named after them.
+Pokedex = This is just an chandelier, what am I supposed to write about this? It looks nice in an mansion I guess. 
 Generation = 5
 #-------------------------------
 [TERREON]
